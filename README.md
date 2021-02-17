@@ -1,5 +1,5 @@
 <p align="center">
-  <span>Ukraine</span> |
+  <span>Українська</span> |
   <a href="https://github.com/UsingSession/UsingSession/tree/main/lang/english#артур-ткаченко-usingsession">Poland</a> |
   <a href="https://github.com/UsingSession/UsingSession/tree/main/lang/english#артур-ткаченко-usingsession">English</a> |
   <a href="https://github.com/UsingSession/UsingSession/tree/main/lang/english#артур-ткаченко-usingsession">Pусский</a> |
@@ -56,7 +56,7 @@
 
 >1. Сфера     — Промисловість та Виробництво
 >2. Термін    — 10 місяців (03.2017 - 12.2017)
->3. Завдання  — Виробництво картоних упаковок - Варшава (Прушкув)
+>3. Завдання  — Виробництво картонних упаковок - Варшава (Прушкув)
 
 
 ## <img src='https://github.com/UsingSession/UsingSession/raw/main/img/drupal.svg' width="30" height="30" /> Front-end ( CMS Drupal)
@@ -85,7 +85,7 @@
 Базовий синтаксис, функції, класи, абстрактні класи, інтерфейси та наслідування, ООП, SOLID, Патерни проектування ( безперечно на першому місці в памяті зостався  SINGLETON).
 
 ## <img src='https://github.com/UsingSession/UsingSession/raw/main/img/mysql.svg' width="30" height="30" /> MySqld
-Створення базових запитів до бази данних та вибірка з них записів
+Створення базових запитів до бази даних та вибірка з них записів
 
 ## <img src='https://github.com/UsingSession/UsingSession/raw/main/img/symfony.svg' width="30" height="30" /> Symfony 5
 Базове знайомство та розробка веб сайту, де для адмін панелі використовувався bundle "easy admin"
