@@ -3,7 +3,7 @@
   <a href="https://github.com/UsingSession/UsingSession">Українська</a> |
   <span>Poland</span> |
   <a href="https://github.com/UsingSession/UsingSession/tree/main/lang/english#артур-ткаченко-usingsession">English</a> |
-  <a href="https://github.com/UsingSession/UsingSession/tree/main/lang/english#артур-ткаченко-usingsession">Pусский</a> |
+  <a href="https://github.com/UsingSession/UsingSession/tree/main/lang/russian#артур-ткаченко-usingsession">Pусский</a> |
 </p>
 
 # [![hithub header](https://github.com/UsingSession/UsingSession/raw/main/img/background.jpg)](https://www.facebook.com/artur.session/)
