@@ -1,5 +1,4 @@
 <p align="center">
-
   <a href="https://github.com/UsingSession/UsingSession">Українська</a> |
   <span>Poland</span> |
   <a href="https://github.com/UsingSession/UsingSession/tree/main/lang/english#артур-ткаченко-usingsession">English</a> |
@@ -10,10 +9,6 @@
 
 [Artur Tkaczenko (UsingSession)](https://github.com/UsingSession) 
 ============
-
-### Upragniona pozycja
-1. <img src="https://github.com/UsingSession/UsingSession/raw/main/img/check.svg" height="20"/> Junior Python Developer
-2. <img src="https://github.com/UsingSession/UsingSession/raw/main/img/check.svg" height="20"/> Junior PHP Developer
 
 <table>
   <tbody>

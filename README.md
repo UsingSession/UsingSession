@@ -10,10 +10,6 @@
 [Артур Ткаченко (UsingSession)](https://github.com/UsingSession) 
 ============
 
-### Бажана посада
-1. <img src="https://github.com/UsingSession/UsingSession/raw/main/img/check.svg" height="20"/> Junior Python Developer
-2. <img src="https://github.com/UsingSession/UsingSession/raw/main/img/check.svg" height="20"/> Junior PHP Developer
-
 <table>
   <tbody>
     <tr>
