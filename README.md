@@ -86,7 +86,7 @@
 ## <img src='https://github.com/UsingSession/UsingSession/raw/main/img/symfony.svg' width="30" height="30" /> Symfony 5
 Базове знайомство та розробка веб сайту, де для адмін панелі використовувався [EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) 
 
-## <img src='https://github.com/UsingSession/UsingSession/raw/main/img/drupal.svg' width="30" height="30" /> Drupal 8 (7/9) 
+## <img src='https://github.com/UsingSession/UsingSession/raw/main/img/drupal.svg' width="30" height="30" /> Drupal 9 (7/8) 
 В даний час працюю саме з ним.
 
 ## <img src='https://github.com/UsingSession/UsingSession/raw/main/img/python.svg' width="30" height="30" /> Python 3
