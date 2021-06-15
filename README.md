@@ -102,12 +102,11 @@
 
 
 ## <img src='https://github.com/UsingSession/UsingSession/raw/main/img/additional.svg' width="30" height="30" /> "Додатково"
-1. Розробка telegram ботів
-2. OS\
-  2.1. <img src='https://github.com/UsingSession/UsingSession/raw/main/img/ubuntu.svg' width="30" height="30" /> Ubuntu\
-  2.2. <img src='https://github.com/UsingSession/UsingSession/raw/main/img/windows.svg' width="30" height="30" /> Windows
-3. IDE\
-  3.1 <img src='https://github.com/UsingSession/UsingSession/raw/main/img/vscode.svg' width="30" height="30" /> VS CODE
+1. OS\
+  1.1. <img src='https://github.com/UsingSession/UsingSession/raw/main/img/ubuntu.svg' width="30" height="30" /> Ubuntu\
+  1.2. <img src='https://github.com/UsingSession/UsingSession/raw/main/img/windows.svg' width="30" height="30" /> Windows
+1. IDE\
+  1.1 <img src='https://github.com/UsingSession/UsingSession/raw/main/img/vscode.svg' width="30" height="30" /> VS CODE
 
 
 <details>
