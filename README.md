@@ -84,7 +84,7 @@
 Створення базових запитів до бази даних та вибірка з них записів
 
 ## <img src='https://github.com/UsingSession/UsingSession/raw/main/img/symfony.svg' width="30" height="30" /> Symfony 5
-Базове знайомство та розробка веб сайту, де для адмін панелі використовувався bundle "easy admin"
+Базове знайомство та розробка веб сайту, де для адмін панелі використовувався [EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) 
 
 ## <img src='https://github.com/UsingSession/UsingSession/raw/main/img/drupal.svg' width="30" height="30" /> Drupal 8 (7/9) 
 В даний час працюю саме з ним.
