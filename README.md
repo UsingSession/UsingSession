@@ -1,6 +1,14 @@
-<img src="./assets/images/background.jpg" width="170"/>
+<img src="./assets/images/background.jpg"/>
 
-<h1>Turning Coffee ☕ into Code – I'm Arthur, Drupal Dev</h1>
+<h1>
+    <img src="./assets/icons/light-bulb.gif" width="30px" alt="light-bulb" style="margin-bottom: -4px;">
+    Architecting Ideas into Reusable Code – I'm Arthur, Drupal Dev
+</h1>
+
+<h3 align="left">About Me :</h3>
+<p>
+    Drupal Developer 💻 | Open Source Contributor 🌟| Committed to High-Quality Web Development 📈
+</p>
 
 <h3>Connect with me:</h3>
 
@@ -30,3 +38,30 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
 </p>
+
+
+<h3>
+    GitHub Stats :
+</h3>
+
+<table align="center">
+  <tr>
+    <td>
+        <a href="https://github.com/UsingSession/github-readme-stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsingSession&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arthur Tkachenko github stats" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/UsingSession/github-readme-stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsingSession&layout=compact&theme=buefy&hide_border=true" />
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+        <a href="https://git.io/streak-stats">
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=UsingSession&short_numbers=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" />
+        </a>
+    </td>
+  </tr>
+</table>
