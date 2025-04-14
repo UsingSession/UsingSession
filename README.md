@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table>
     <tbody>
         <tr>
             <td align="center" width="88">
