@@ -19,7 +19,7 @@
 </p>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/usingsession" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usingsession" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usingsession" height="20" width="20" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
