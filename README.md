@@ -9,7 +9,7 @@
 <h3>🔧 Let's Connect</h3>
 
 <p>
-    I'm always open to cool ideas, Drupal hacks, or DIY collaborations.  
+    I'm always open for cool ideas, Drupal hacks, or DIY collaborations.  
     Drop me a message — I promise not to reply with a `var_dump()` 😄
 </p>
 
