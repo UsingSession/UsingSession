@@ -3,7 +3,7 @@
 <h1>
    
 <img src="./assets/icons/light-bulb.gif" width="30px" alt="light-bulb" style="margin-bottom: -4px;">
-    Architecting Ideas into Reusable Code – I'm Arthur, Super Drupal Dev
+    Architecting Ideas into Reusable Code – I'm Arthur, 𝘚𝘶𝘱𝘦𝘳 𝘋𝘳𝘶𝘱𝘢𝘭 𝘋𝘦𝘷
 </h1>
 
 <h3>🔧 Let's Connect</h3>
