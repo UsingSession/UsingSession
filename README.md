@@ -6,70 +6,98 @@
     Architecting Ideas into Reusable Code – I'm Arthur, Drupal Dev
 </h1>
 
-<h3 align="left">About Me :</h3>
+<h3 align="left">A little more about me...</h3>
 <p>
     Drupal Developer 💻 | Open Source Contributor 🌟| Committed to High-Quality Web Development 📈
 </p>
 
-<h3>Connect with me:</h3>
+<h3>🔧 Let's Connect</h3>
+
+<p>
+    I'm always open to cool ideas, Drupal hacks, or DIY collaborations.  
+    Drop me a message — I promise not to reply with a `var_dump()` 😄
+</p>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/usingsession" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usingsession" height="30" width="40" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/css/" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://www.elastic.co" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://graphql.org" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.elastic.co/kibana" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" />
-    </a>
-    <a href="https://kubernetes.io" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://mariadb.org/" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-    </a>
-</p>
 
-
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+    <tbody>
+        <tr>
+            <td align="center" width="88">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+                <br>PHP
+            </td>
+            <td align="center" width="88">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+                <br>Docker
+            </td>
+            <td align="center"  width="88">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+                <br>HTML5
+            </td>
+            <td align="center" width="88">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+                <br>CSS3
+            </td>
+            <td align="center" width="88">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="88">
+                <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
+                <br>ElasticSearch
+            </td>
+            <td align="center" width="88">
+                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+                <br>Figma
+            </td>
+            <td align="center" width="88">
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+                <br>Git
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="88">
+                <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
+                <br>GraphQL
+            </td>
+            <td align="center" width="88">
+                <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" />
+                <br>Kibana
+            </td>
+            <td align="center" width="88">
+                <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
+                <br>Kubernetes
+            </td>
+            <td align="center" width="88">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+                <br>Linux
+            </td>
+            <td align="center" width="88">
+                <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
+                <br>MariaDB
+            </td>
+            <td align="center" width="88">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+                <br>MySql
+            </td>
+            <td align="center" width="88">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+                <br>Python
+            </td>
+            <td align="center" width="88">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+                <br>SASS
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
 <h3>
     GitHub Stats :
 </h3>
