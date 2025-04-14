@@ -20,12 +20,16 @@
     <tbody>
         <tr>
             <td align="center" width="88">
+                <img src="./assets/icons/drupal.png" alt="php" width="40" height="40" />
+                <br>Drupal (^8)
+            </td>
+            <td align="center" width="88">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
                 <br>PHP
             </td>
             <td align="center" width="88">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-                <br>Docker
+                <img src="./assets/icons/twig.svg" alt="docker" width="40" height="40" />
+                <br>Twig
             </td>
             <td align="center"  width="88">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -40,16 +44,16 @@
                 <br>JavaScript
             </td>
             <td align="center" width="88">
-                <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
-                <br>ElasticSearch
-            </td>
-            <td align="center" width="88">
-                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-                <br>Figma
-            </td>
-            <td align="center" width="88">
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
                 <br>Git
+            </td>
+            <td align="center" width="88">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+                <br>Docker
+            </td>
+            <td align="center" width="88">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+                <br>MySql
             </td>
         </tr>
         <tr>
@@ -74,16 +78,20 @@
                 <br>MariaDB
             </td>
             <td align="center" width="88">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-                <br>MySql
-            </td>
-            <td align="center" width="88">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
                 <br>Python
             </td>
             <td align="center" width="88">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
                 <br>SASS
+            </td>
+            <td align="center" width="88">
+                <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
+                <br>ElasticSearch
+            </td>
+            <td align="center" width="88">
+                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+                <br>Figma
             </td>
         </tr>
     </tbody>
