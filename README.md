@@ -6,21 +6,12 @@
     Architecting Ideas into Reusable Code – I'm Arthur, Drupal Dev
 </h1>
 
-<h3 align="left">A little more about me...</h3>
-<p>
-    Drupal Developer 💻 | Open Source Contributor 🌟| Committed to High-Quality Web Development 📈
-</p>
-
 <h3>🔧 Let's Connect</h3>
 
 <p>
     I'm always open to cool ideas, Drupal hacks, or DIY collaborations.  
     Drop me a message — I promise not to reply with a `var_dump()` 😄
 </p>
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/usingsession" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usingsession" height="20" width="20" />
-</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
