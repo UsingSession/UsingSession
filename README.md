@@ -97,21 +97,3 @@
     </tbody>
 </table>
 </div>
-<h3>
-    GitHub Stats :
-</h3>
-
-<table align="center">
-  <tr>
-    <td>
-        <a href="https://github.com/UsingSession/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsingSession&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arthur Tkachenko github stats" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/UsingSession/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsingSession&layout=compact&theme=buefy&hide_border=true" />
-        </a>
-    </td>
-  </tr>
-</table>
